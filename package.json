@@ -1,0 +1,26 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "make some little util for work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandler0415/utils.git"
+  },
+  "keywords": [
+    "util",
+    "chandler"
+  ],
+  "author": "chandler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chandler0415/utils/issues"
+  },
+  "homepage": "https://github.com/Chandler0415/utils#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
